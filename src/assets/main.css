@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter';
+}
+ul {
+    list-style: none;
+}
+.v-counter {
+    position: absolute;
+    left: 10px;
+}
+.v-field__input {
+    min-width: 100% !important;
+}
+.v-field__field {
+    min-width: 109% !important;
+}
